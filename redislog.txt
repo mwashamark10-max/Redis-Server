@@ -1,0 +1,19 @@
+set name Mark
+set Age 20
+
+
+
+
+
+
+
+
+
+set name mark 
+
+
+set age 20 
+
+
+
+
